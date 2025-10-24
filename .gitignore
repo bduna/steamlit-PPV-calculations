@@ -29,3 +29,5 @@ key.pub
 streamlit_app_url.txt
 
 /.streamlit/secrets.toml
+key.pub
+streamlit_app_url.txt
