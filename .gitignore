@@ -26,7 +26,6 @@ Thumbs.db
 
 # private stuff
 key.pub
-streamlit_app_url.txt/key.pub
 streamlit_app_url.txt
 
 /.streamlit/secrets.toml
