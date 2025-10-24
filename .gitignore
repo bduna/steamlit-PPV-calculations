@@ -24,5 +24,6 @@ Thumbs.db
 .secrets
 .streamlit/secrets.tomlg
 
-# ssh keys
+# private stuff
 key.pub
+streamlit_app_url.txt
