@@ -238,7 +238,7 @@ if compare_mode:
 # --------------------------
 # Header & equations
 # --------------------------
-st.title("📈 PPV Math & A/B Profit Calculator")
+st.title("📈 PPV Math & A versus B Calculator")
 
 with st.expander("Show key equations", expanded=False):
     st.latex(r"\textbf{PPV} \;=\; (\text{CR}\times \text{AOV}\times \text{GM}) \;-\; \text{CPV}")
