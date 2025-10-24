@@ -22,12 +22,3 @@ Thumbs.db
 # Not for git
 .env
 .secrets
-.streamlit/secrets.tomlg
-
-# private stuff
-key.pub
-streamlit_app_url.txt
-
-/.streamlit/secrets.toml
-key.pub
-streamlit_app_url.txt
